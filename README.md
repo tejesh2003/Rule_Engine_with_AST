@@ -151,4 +151,4 @@ variable operator value
 
 You can add and run tests to ensure everything is working correctly. 
 ```
-created bt: tejesh chintada
+created by: tejesh chintada
